@@ -1,6 +1,6 @@
 ### 👋
 
-- 🔥 I’m currently working at BOLD by devoteam as frontend developer.
+- 🔥 I’m currently working at INETUM as Creative Frontend Developer & Digital Designer.
 - 🌱 Vue.js / Nuxt.js.
 - 🥠 I love vanilla.
 - ⚛️ React.js / Next.js.
