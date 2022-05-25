@@ -1,6 +1,6 @@
 ### 👋
 
-- 🔥 I’m currently working at INETUM as Creative Frontend Developer & Digital Designer.
+- 🔥 Creative Frontend Developer & Digital Designer at INETUM.
 - ⚛️ React.js / Next.js.
 - 🌱 Vue.js / Nuxt.js.
 - 🥠 I love vanilla.
